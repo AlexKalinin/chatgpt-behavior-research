@@ -6,6 +6,8 @@ The project aims to conduct a behavior study of ChatGPT, exploring its capabilit
 
 * For regular users: 
   * https://github.com/f/awesome-chatgpt-prompts
+  * https://www.reddit.com/r/ChatGPT/
+  * https://flowgpt.com/
 * For developers: 
   * [OpenAI documentation](https://platform.openai.com/docs/introduction)
   * [ALEL google-document](https://docs.google.com/document/d/1oufQ_tSN5S23cqUqq0Lre2R-Hoe1TEZELXAvazBXD_8/edit#) 
